@@ -5,3 +5,5 @@ developed from there. App opens with markers placed on specific locations, with 
 purple marker that can be dragged to any location on the map displayed.
 
 Minimum API Required: 23
+
+Git clone link: https://github.com/Kyle-McInnis/Google-Maps-Application.git
